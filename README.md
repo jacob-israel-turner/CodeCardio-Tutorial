@@ -40,3 +40,31 @@ Each challenge will have a title and description on the left side of the screen.
 
 ![challenge view]
 (http://i1383.photobucket.com/albums/ah307/JIsraelTurner/CodeCardio%20-%20Google%20Chrome_013_zpsmleflsqx.png)
+
+Follow the instructions and put your solution in the area on the right.  If you are successful, a confirmation messaage will appear, and you can move on to the next challenge by clicking 'next'.
+
+![successful challenge]
+(http://i1383.photobucket.com/albums/ah307/JIsraelTurner/Tooltip_015_zpsncq54t0x.png)
+
+There are a couple of ways your code might be tested.  The first is by checking the value of a variable, as we saw in the last example.  Another is testing the output of a function.  For example:
+
+![test function]
+(http://i1383.photobucket.com/albums/ah307/JIsraelTurner/CodeCardio%20-%20Google%20Chrome_017_zpsdluygpau.png)
+
+In this example, they are asking for a function called `quest`.  `quest` is supposed to return a string defining what your purpose is.  When you type submit, the test will invoke `quest()` and see what is returned.  If you've returned the right thing, it will pass.
+
+
+Sometimes, you might struggle with a challenge and get it wrong a few times before you get it right. You might get different messages depending on what was wrong with your code.
+
+![undefined]
+(http://i1383.photobucket.com/albums/ah307/JIsraelTurner/CodeCardio%20-%20Google%20Chrome_018_zpsvhoiapnr.png)
+
+I get the above error if `colour` is undefined.
+
+![wrong value]
+(http://i1383.photobucket.com/albums/ah307/JIsraelTurner/CodeCardio%20-%20Google%20Chrome_019_zpsqbcmpdea.png)
+
+And I get this error if `colour` is the wrong value.
+
+The error messages may be different for each challenge.  Sometimes they will give you a hint or a direction to go to see why your code doesn't work.
+
