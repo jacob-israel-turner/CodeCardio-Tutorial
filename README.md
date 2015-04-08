@@ -51,7 +51,7 @@ There are a couple of ways your code might be tested.  The first is by checking 
 ![test function]
 (http://i1383.photobucket.com/albums/ah307/JIsraelTurner/CodeCardio%20-%20Google%20Chrome_017_zpsdluygpau.png)
 
-In this example, they are asking for a function called `quest`.  `quest` is supposed to return a string defining what your purpose is.  When you type submit, the test will invoke `quest()` and see what is returned.  If you've returned the right thing, it will pass.
+In this example, they are asking for a function called `quest`.  `quest` is supposed to return a string defining what your purpose is.  When you type submit, the test will invoke `quest()` and see what is returned.  If you've returned the right thing, you will pass.
 
 
 Sometimes, you might struggle with a challenge and get it wrong a few times before you get it right. You might get different messages depending on what was wrong with your code.
