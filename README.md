@@ -66,5 +66,11 @@ I get the above error if `colour` is undefined.
 
 And I get this error if `colour` is the wrong value.
 
-The error messages may be different for each challenge.  Sometimes they will give you a hint or a direction to go to see why your code doesn't work.
+The error messages will be different for most challenges.  Sometimes they will give you a hint or a direction to go to see why your code doesn't work.
 
+If you want to show off how you did on challenges (or, if you want to send in your coding challenge to DevMountain), go to your profile,
+
+![profile link]
+(http://i1383.photobucket.com/albums/ah307/JIsraelTurner/Tooltip_021_zpsccchxidg.png)
+
+copy the URL, and share away!
