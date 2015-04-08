@@ -17,7 +17,7 @@ If you are planning on attending DevMountain, I highly recomment creating a Gith
 
 ## Step 2: Finding Challenges
 
-CodeCardio has challenges and sequences, which are collections of challenges.  You can view any challenge on the site from the [dashboard](https://codecard.io/a/dashboard).  You can also see any sequences on the site.
+CodeCardio has challenges and sequences, which are collections of challenges.  You can view any challenge or sequence on the site from the [dashboard](https://codecard.io/a/dashboard).
 
 Clicking on a sequence will bring you to a page where you can view all of the challenges in that sequence. You can access a challenge's page by clicking on the challenge name.
 
