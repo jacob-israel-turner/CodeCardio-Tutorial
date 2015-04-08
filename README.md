@@ -6,7 +6,7 @@ The purpose of CodeCardio is to enable users to strengthen their coding skills. 
 
 ## Step 1: Register
 
-CodeCardio has three options for registration/authentication: 1) Local(using a username/email/password combination), 2) Facebook oAuth, and 3) Github oAuth.  
+CodeCardio has three options for registration/authentication: 1) Local (using a username/email/password combination), 2) Facebook oAuth, and 3) Github oAuth.  
 
 ![Authentication]
 (http://i1383.photobucket.com/albums/ah307/JIsraelTurner/CodeCardio%20-%20Google%20Chrome_010_zpskei6nl60.png)
