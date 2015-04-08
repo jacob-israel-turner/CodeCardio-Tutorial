@@ -1,6 +1,6 @@
 # CodeCardio-Tutorial
 
-In this tutorial, I'm going to talk about the basics of using [CodeCardio](codecard.io). CodeCardio was created by [DevMountain](devmounta.in) staff for our [Web-Dev bootcamp](https://devmounta.in/web-immersive) admissions proccess.
+In this tutorial, I'm going to talk about the basics of using [CodeCardio](codecard.io). CodeCardio was created by [DevMountain](devmounta.in) staff for use with our [Web-Dev bootcamp](https://devmounta.in/web-immersive).
 
 The purpose of CodeCardio is to enable its users to strengthen their coding skills.  CodeCardio has a number of JavaScript challenges, built to help you learn the fundamentals of JavaScript.  The site uses a testing system to ensure that you aren't only writing out the code, but you're also arriving to the correct answer.
 
