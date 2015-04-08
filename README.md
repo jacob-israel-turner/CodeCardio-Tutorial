@@ -36,3 +36,7 @@ As you can see, I have three challenges in my sequence.  Let's start solving the
 
 ## Step 3: Solving Challenges
 
+Each challenge will have a title and description on the left side of the screen.  Instructions to solve the challenge will be in the description and/or the code itself.  Here's what it looks like:
+
+![challenge view]
+(http://i1383.photobucket.com/albums/ah307/JIsraelTurner/CodeCardio%20-%20Google%20Chrome_013_zpsmleflsqx.png)
