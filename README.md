@@ -57,12 +57,12 @@ In this example, they are asking for a function called `quest`.  `quest` is supp
 Sometimes, you might struggle with a challenge and get it wrong a few times before you get it right. You might get different messages depending on what was wrong with your code.
 
 ![undefined]
-(http://i1383.photobucket.com/albums/ah307/JIsraelTurner/CodeCardio%20-%20Google%20Chrome_022_zpsasw2swvn.png)
+(http://i1383.photobucket.com/albums/ah307/JIsraelTurner/CodeCardio%20-%20Google%20Chrome_018_zpsvhoiapnr.png)
 
 I get the above error if `colour` is undefined.
 
 ![wrong value]
-(http://i1383.photobucket.com/albums/ah307/JIsraelTurner/CodeCardio%20-%20Google%20Chrome_019_zpsqbcmpdea.png)
+(http://i1383.photobucket.com/albums/ah307/JIsraelTurner/CodeCardio%20-%20Google%20Chrome_022_zpsasw2swvn.png)
 
 And I get this error if `colour` is the wrong value.
 
