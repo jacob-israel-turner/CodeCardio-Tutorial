@@ -13,4 +13,26 @@ CodeCardio has three options for registration/authentication: 1) Local(using a u
 
 If you're not familiar with oAuth, it's an open standard for authentication, used across many services.  What that means is, you don't have to take the time to sign in/register with tons of sites.  Instead, you can use one of your current accounts to register/authenticate on many sites.
 
-If you are planning on attending DevMountain, I highly recomment creating a Github account at this point and using it to authenticate for CodeCardio.  
+If you are planning on attending DevMountain, I highly recomment creating a Github account at this point and using it to authenticate for CodeCardio.  After doing this, logging in will be as simple as clicking the little button the right.
+
+## Step 2: Finding Challenges
+
+CodeCardio has challenges and sequences, which are collections of challenges.  You can view any challenge on the site from the [dashboard](https://codecard.io/a/dashboard).  You can also see any sequences on the site.
+
+Clicking on a sequence will bring you to a page where you can view all of the challenges in that sequence. You can access a challenge's page by clicking on the challenge name.
+
+To demonstrate, I have created a sequence with three challenges. This is what my dashboard now looks like:
+
+![dashboard]
+(http://i1383.photobucket.com/albums/ah307/JIsraelTurner/CodeCardio%20-%20Google%20Chrome_011_zpsxg2busuz.png)
+
+One the left you can see my new sequence, 'These Questions, Three'.  If I click on the sequence, I will see all of the challenges in the sequence.
+
+![sequence view]
+(http://i1383.photobucket.com/albums/ah307/JIsraelTurner/CodeCardio%20-%20Google%20Chrome_012_zpshqp0zecs.png)
+
+As you can see, I have three challenges in my sequence.  Let's start solving them!
+
+
+## Step 3: Solving Challenges
+
