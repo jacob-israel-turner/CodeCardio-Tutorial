@@ -31,7 +31,7 @@ One the left you can see my new sequence, 'These Questions, Three'.  If I click 
 ![sequence view]
 (http://i1383.photobucket.com/albums/ah307/JIsraelTurner/CodeCardio%20-%20Google%20Chrome_012_zpshqp0zecs.png)
 
-As you can see, I have three challenges in my sequence.  Let's start solving them!
+I have three challenges in my sequence.  Let's start solving them!
 
 
 ## Step 3: Solving Challenges
