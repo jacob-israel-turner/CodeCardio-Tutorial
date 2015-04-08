@@ -2,4 +2,4 @@
 A tutorial on how to use CodeCardio
 
 ![testing]
-(https://plus.google.com/photos/106679503496744150001/albums/6135449800768903713/6135449807353251378?pid=6135449807353251378&oid=106679503496744150001)
+(https://lh3.googleusercontent.com/-EslVDNwisU0/VSV_F8CHhjI/AAAAAAAAJKg/7u5dM6bTNvM/w2136-h881-no/Editing%2BCodeCardio-Tutorial-README.md%2Bat%2Bmaster%2B%C2%B7%2Bjacob-israel-turner-CodeCardio-Tutorial%2B-%2BGoogle%2BChrome_009.png)
